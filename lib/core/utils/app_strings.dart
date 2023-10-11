@@ -11,4 +11,5 @@ abstract class AppStrings {
   static String age = 'العمر';
   static String phoneNumber = 'رقم الهاتف';
   static String id = 'Id';
+  static String thereAreNoStudents = 'لا يوجد طلاب حاليه';
 }

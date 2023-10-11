@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:irada_center/features/home/data/models/students_model/students_model/doc.dart';
+import 'package:irada_center/features/students/data/models/students_model/students_model/doc.dart';
 
-class CustomItemDetails extends StatelessWidget {
-  const CustomItemDetails({
+class CustomStudentsItem extends StatelessWidget {
+  const CustomStudentsItem({
     super.key,
     required this.doc,
   });
